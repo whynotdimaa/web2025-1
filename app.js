@@ -1,2 +1,2 @@
 const username = "whynotdimaa";
-console.log(`Helloo, ${username}`);
+console.log(`Hello 2, ${username}`);
